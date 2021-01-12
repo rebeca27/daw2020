@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daw-webapi", "daw-webapi.csproj", "{8A33C1D0-CCB7-4F2C-8CBF-13BD4D125ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A33C1D0-CCB7-4F2C-8CBF-13BD4D125ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A33C1D0-CCB7-4F2C-8CBF-13BD4D125ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A33C1D0-CCB7-4F2C-8CBF-13BD4D125ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A33C1D0-CCB7-4F2C-8CBF-13BD4D125ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62799276-C57C-4419-83A9-A6F71811951D}
+	EndGlobalSection
+EndGlobal
